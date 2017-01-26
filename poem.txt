@@ -7,5 +7,6 @@ Yellow
 Red
 
 These are the colors of the rainbow
+Adding indigo
 
 (This is a sample for github tutorial for Art 370)
