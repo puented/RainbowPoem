@@ -9,5 +9,6 @@ Red
 Ponny 
 These are the colors of the rainbow
 Adding indigo
+violet is better
 
 (This is a sample for github tutorial for Art 370)
