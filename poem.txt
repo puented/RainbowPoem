@@ -7,3 +7,5 @@ Yellow
 Red
 
 These are the colors of the rainbow
+
+(This is a sample for github tutorial for Art 370)
